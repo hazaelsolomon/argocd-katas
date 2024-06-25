@@ -5,3 +5,6 @@
 * Apply the new sealed secret (add to your repo and push it to see that Argo fetches it)
 * See that everything still works
 * 
+
+
+
